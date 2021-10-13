@@ -1,0 +1,10 @@
+.routes-main {
+    background-color: #303030;
+    color: white;
+}
+
+.routes-container {
+    width: 55%;
+    min-width: 340px;
+    margin: 0 auto;
+}

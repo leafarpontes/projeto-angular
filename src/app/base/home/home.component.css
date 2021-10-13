@@ -1,0 +1,15 @@
+.home-main {
+    background-color: #303030;
+    color: white;
+}
+
+.main-container {
+    width: 55%;
+    min-width: 340px;
+    margin: 0 auto;
+}
+
+.sobre {
+    line-height: 1.8rem;
+    font-weight: 400;
+}

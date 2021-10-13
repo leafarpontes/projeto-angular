@@ -1,0 +1,10 @@
+.data-binding-main {
+    background-color: #303030;
+    color: white;
+}
+
+.data-binding-container {
+    width: 55%;
+    min-width: 340px;
+    margin: 0 auto;
+}
